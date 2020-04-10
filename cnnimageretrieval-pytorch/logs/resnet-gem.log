@@ -1,0 +1,4 @@
+make[1]: Entering directory '/data1/dyang/Projects/Evan_CNNRetrieval/cnnimageretrieval-pytorch'
+python ./cirtorch/examples/test.py --gpu-id '0' --network-offtheshelf 'resnet101-gem' --multiscale --datasets 'scores' --whitening 'scores'
+Makefile:36: recipe for target 'resnet-gem' failed
+make[1]: Leaving directory '/data1/dyang/Projects/Evan_CNNRetrieval/cnnimageretrieval-pytorch'

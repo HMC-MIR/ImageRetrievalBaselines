@@ -1,0 +1,5 @@
+score_retrieval.egg-info/PKG-INFO
+score_retrieval.egg-info/SOURCES.txt
+score_retrieval.egg-info/dependency_links.txt
+score_retrieval.egg-info/requires.txt
+score_retrieval.egg-info/top_level.txt

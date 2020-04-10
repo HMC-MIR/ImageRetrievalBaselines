@@ -1,0 +1,7 @@
+README.md
+setup.py
+score_splitter.egg-info/PKG-INFO
+score_splitter.egg-info/SOURCES.txt
+score_splitter.egg-info/dependency_links.txt
+score_splitter.egg-info/requires.txt
+score_splitter.egg-info/top_level.txt

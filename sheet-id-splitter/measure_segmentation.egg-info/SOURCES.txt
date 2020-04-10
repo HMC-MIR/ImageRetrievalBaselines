@@ -1,0 +1,14 @@
+README.md
+setup.py
+deprecated_measure_segmentation/__init__.py
+deprecated_measure_segmentation/bar-labeler.py
+deprecated_measure_segmentation/bar_validation_cnn.py
+deprecated_measure_segmentation/line_separate.py
+deprecated_measure_segmentation/score_splitter.py
+deprecated_measure_segmentation/score_splitter_cleanup.py
+deprecated_measure_segmentation/tsai_bars.py
+measure_segmentation.egg-info/PKG-INFO
+measure_segmentation.egg-info/SOURCES.txt
+measure_segmentation.egg-info/dependency_links.txt
+measure_segmentation.egg-info/requires.txt
+measure_segmentation.egg-info/top_level.txt
